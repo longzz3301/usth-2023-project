@@ -1,0 +1,93 @@
+.text-belive{
+    height: 21px;
+    width: 301px;
+    
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0.1em;
+    
+    color: rgba(21, 158, 236, 1);
+    padding: 15px;
+    margin: 64px 100px 5px 600px;
+
+
+
+}
+
+.text-services{
+    height: 37px;
+    width: 204px;
+    
+    font-family: Yeseva One;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37px;
+    
+    
+    color: rgba(31, 43, 108, 1);
+    margin: 5px 200px 60px 680px;
+
+
+
+
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 100px;
+    margin-left: 270px;
+}
+
+.free1 {
+    background-color:white;
+    border-radius:5px;
+    border-color:gray;
+    
+    padding: auto;
+    display: flex;
+    margin-right: 30px;
+    /* max-height: 80px; */
+   
+    
+}
+
+.free2{
+    background-color:white;
+    border-radius:5px;
+    border-color:gray;
+    
+    padding: auto;
+    height: 80px;
+
+}
+
+.free3{
+    background-color:white;
+    border-radius:5px;
+    border-color:gray;
+    
+    padding: auto;  
+    height: 80px;
+
+}
+.free4 {
+    background-color:white;
+    border-radius:5px;
+    border-color:gray;
+    
+    padding: auto;  
+    height: 80px;
+
+    
+}
+
+.button-services1 {
+    display: flex;
+    flex-direction: row;
+    
+    
+}

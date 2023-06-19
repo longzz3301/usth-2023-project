@@ -1,0 +1,72 @@
+.topmost {
+    height: 100px;
+    width: 1360px;
+    background-color:#FCFEFE;    
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.med {
+    height: 42px;
+    width: 193px;
+    left: 187px;
+    top: 19px;
+    line-height: 100%;
+    font-family: Yeseva One;
+    font-style: Regular;
+    font-size: 40px;
+    font-weight: 550;
+    line-height: 42px;
+    text-align: left;
+    color: rgba(31, 43, 108, 1);
+
+
+}
+.dical {
+    height: 42px;
+    width: 193px;
+    left: 187px;
+    top: 19px;
+    line-height: 100%;
+    font-family: Yeseva One;
+    font-style: Regular;
+    font-size: 40px;
+    font-weight: 550;
+    line-height: 42px;
+    text-align: left;
+    color: rgba(21, 158, 236, 1)
+
+}
+.medical {
+    margin: 19px 210px 19px 100px;
+    
+}
+
+.group179 {
+    height: 42px;
+    width: 724px;
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+
+
+
+    background-color: white;
+    margin: 19px 170px 19px 170px;
+}
+
+.group8 {
+    height: 42px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    margin: 0px 18px ;
+
+
+
+}

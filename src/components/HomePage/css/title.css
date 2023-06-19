@@ -1,0 +1,73 @@
+.tilte {
+    background-position: center;
+    
+    
+    background-image:url("../../../assets/images/picture1.png");
+    
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+
+.frame233 {
+    height: 216px;
+    width: 519px;
+    left: 186px;
+    top: 327px;
+    padding: 167px 661px 167px 186px ;
+
+
+}
+.caring-life {
+    height: 21px;
+    width: 300px;
+    left: 1px;
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0.16em;
+    text-align: left;
+    color: rgba(21, 158, 236, 1);
+    padding: 0px 332px 3px 0px;
+
+
+
+}
+
+.leading-medical {
+    height: 110px;
+    width: 519px;
+
+    top: 29px;
+    font-family: Yeseva One;
+    font-style: Regular;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 55px;
+    
+
+Line-height: 100%;
+    
+    text-align: left;
+    color: rgba(31, 43, 108, 1);
+    padding: 3px 0px 15px 0px;
+
+
+
+
+}
+
+.button2 {
+    height: 45px;
+    width: 170px;
+    left: 1px;
+    top: 171px;
+    border-radius: 50px;
+    padding: 13px 35px 13px 35px;
+    background-color: #BFD2F8;
+
+}
